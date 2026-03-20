@@ -1,2 +1,3 @@
-# fast-blockchain-dapp-phxf
-A blockchain decentralized application for modern development workflows
+# Fast Blockchain Dapp Phxf
+
+A blockchain decentralized application for modern development workflows.
